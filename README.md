@@ -27,4 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amila619&" alt="amila619" /></p>
 
-<img src="https://raw.githubusercontent.com/Amila619/Amila619/output/snake.svg" alt="Snake animation" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
