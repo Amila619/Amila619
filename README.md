@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amila</h1>
-<h3 align="center">BICT undergraduate at University Of Ruhuna</h3>
+<h1 align="center">Greetings! 👋 I’m Amila</h1>
+<h3 align="center">BICT Undergraduate | Future Full Stack Visionary</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amila619&label=Profile%20views&color=0e75b6&style=flat" alt="amila619" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amila619&label=Profile%20Views&color=129e00&style=plastic" alt="amila619" /> </p>
+
+
 
 - 🌱 I’m currently learning **Full Stack Development, API Development**
 
